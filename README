@@ -1,3 +1,6 @@
 influx ping --host https://localhost:8086 --skip-verify
 
 influx bucket list --host "https://localhost:8086" --skip-verify --org main-org
+
+
+https://github.com/boutetnico/ansible-role-influxdb.git
